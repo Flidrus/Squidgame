@@ -1,3 +1,3 @@
 flask
-flask8
+flake8
 pytest
